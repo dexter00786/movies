@@ -1,0 +1,143 @@
+[
+  {
+    "id": 1,
+    "name": "The avengers",
+    "year": 2012,
+    "rating": 8.3,
+    "revenue": "$670M"
+  },
+  {
+    "id": 2,
+    "name": "Man of Steel",
+    "year": 2013,
+    "rating": 7.8,
+    "revenue": "$670M"
+  },
+  {
+    "id": 3,
+    "name": "Thor: Ragnarok",
+    "year": 2017,
+    "rating": 8.3,
+    "revenue": "$670M"
+  },
+  {
+    "id": 4,
+    "name": "Iron Man",
+    "year": 2008,
+    "rating": 7.9,
+    "revenue": "$318.41M"
+  },
+  {
+    "id": 5,
+    "name": "The Incredible Hulk",
+    "year": 2008,
+    "rating": 6.6,
+    "revenue": "$134M"
+  },
+  {
+    "id": 6,
+    "name": "Captain America: The First Avenger",
+    "year": 2011,
+    "rating": 6.9,
+    "revenue": "$176M"
+  },
+  {
+    "id": 7,
+    "name": "Guardians of Galaxy",
+    "year": 2014,
+    "rating": 8,
+    "revenue": "$333M"
+  },
+  { "id": 8, "name": "Thor", "year": 2011, "rating": 7, "revenue": "$181M" },
+  {
+    "id": 9,
+    "name": "Avengers: Age of Ultron",
+    "year": 2015,
+    "rating": 7.3,
+    "revenue": "$459M"
+  },
+  {
+    "id": 10,
+    "name": "Ant-Man",
+    "year": 2015,
+    "rating": 7.3,
+    "revenue": "$180M"
+  },
+  {
+    "id": 11,
+    "name": "Captain America: Civil War",
+    "year": 2016,
+    "rating": 7.8,
+    "revenue": "$408M"
+  },
+  {
+    "id": 12,
+    "name": "Iron Man 3",
+    "year": 2013,
+    "rating": 7.1,
+    "revenue": "$409M"
+  },
+  {
+    "id": 13,
+    "name": "Spider-Man: Homecoming",
+    "year": 2017,
+    "rating": 7.4,
+    "revenue": "$334M"
+  },
+  {
+    "id": 14,
+    "name": "Avengers: Infinity War",
+    "year": 2018,
+    "rating": 8.4,
+    "revenue": "$678M"
+  },
+  {
+    "id": 15,
+    "name": "Black Panther",
+    "year": 2018,
+    "rating": 7.3,
+    "revenue": "$670M"
+  },
+  {
+    "id": 16,
+    "name": "Captain Marvel",
+    "year": 2019,
+    "rating": 6.8,
+    "revenue": "$426M"
+  },
+  {
+    "id": 17,
+    "name": "Ant-Man and the Wasp",
+    "year": 2018,
+    "rating": 7,
+    "revenue": "$216M"
+  },
+  {
+    "id": 18,
+    "name": "Doctor Strange",
+    "year": 2016,
+    "rating": 7.5,
+    "revenue": "$232M"
+  },
+  {
+    "id": 19,
+    "name": "Captain America: The Winter Soldier",
+    "year": 2018,
+    "rating": 7.3,
+    "revenue": "$670M"
+  },
+  {
+    "id": 20,
+    "name": "Thor: The Dark World",
+    "year": 2018,
+    "rating": 7.3,
+    "revenue": "$670M"
+  },
+  {
+    "id": 21,
+    "name": "The avengers",
+    "year": 2012,
+    "rating": 8.3,
+    "revenue": "$670M"
+  }
+]
